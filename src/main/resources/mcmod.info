@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "warlordshud",
+  "name": "Warlords HUD",
+  "description": "Displays damage/healing",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "http://notifly.hopto.org",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Notifly"],
+  "credits": "OrangeMarshall",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
